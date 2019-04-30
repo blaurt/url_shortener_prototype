@@ -1,3 +1,6 @@
+# Url shortener 
+https://proglib.io/p/symfony-url-shortener/
+
 ## To  run this project make following command in terminal:
 
 **Step 1.**
@@ -30,4 +33,4 @@ php bin/console doctrine:migrations:migrate
 
 ~~~
 php bin/console server:start
-~~~# Url shortener \nhttps://proglib.io/p/symfony-url-shortener/
+ 
